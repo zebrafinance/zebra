@@ -24,7 +24,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
+        name: `Zebra`,
         short_name: `Zebra`,
         description: `I'm creating beautiful web experiences for the next generation of borrowers, equipment financiers and credit providers.`,
         start_url: `/`,
